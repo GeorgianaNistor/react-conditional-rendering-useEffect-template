@@ -1,5 +1,3 @@
-import React from 'react';
-
 function UserItem(props) {
   const { name, email } = props;
   return (
