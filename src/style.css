@@ -9,9 +9,9 @@ body {
 }
 
 .dropdown-list {
-  visibility: hidden;
+  display: none;
 }
 
 .is-displayed {
-  visibility: visible;
+  display: block;
 }
